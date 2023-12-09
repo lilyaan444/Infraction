@@ -1,0 +1,26 @@
+[
+  {"date_inf":"05/10/2023","num_immat":"AB308FG","num_permis": "AZ02","délits" :[2, 4] },
+  {"date_inf":"06/10/2023","num_immat":"BF823NG","num_permis": "AZ01","délits" :[3] },
+  {"date_inf":"07/10/2023","num_immat":"ZZ999DZ","num_permis": "AZ06","délits" :[4] },
+  {"date_inf":"08/10/2023","num_immat":"BF823NG","num_permis": "AZ05","délits" :[1] },
+  {"date_inf":"09/10/2023","num_immat":"BF823NG","num_permis": "AZ04","délits" :[2] },
+  {"date_inf":"10/10/2023","num_immat":"BF823NG","num_permis": "AZ03","délits" :[3] },
+  {"date_inf":"11/10/2023","num_immat":"BE456AD","num_permis": "AZ02","délits" :[4] },
+  {"date_inf":"12/10/2023","num_immat":"AA643BB","num_permis": "AZ01","délits" :[1] },
+  {"date_inf":"13/10/2023","num_immat":"ZZ999DZ","num_permis": "AZ06","délits" :[2] },
+  {"date_inf":"14/10/2023","num_immat":"BE456AD","num_permis": "AZ05","délits" :[3] },
+  {"date_inf":"15/10/2023","num_immat":"BF823NG","num_permis": "AZ04","délits" :[4] },
+  {"date_inf":"16/10/2023","num_immat":"BE456AD","num_permis": "AZ03","délits" :[1] },
+  {"date_inf":"17/10/2023","num_immat":"BF823NG","num_permis": "AZ02","délits" :[2] },
+  {"date_inf":"18/10/2023","num_immat":"ZZ999DZ","num_permis": "AZ01","délits" :[3] },
+  {"date_inf":"19/10/2023","num_immat":"AA643BB","num_permis": "AZ06","délits" :[4] },
+  {"date_inf":"20/10/2023","num_immat":"BE456AD","num_permis": "AZ05","délits" :[1] },
+  {"date_inf":"21/10/2023","num_immat":"BF823NG","num_permis": "AZ04","délits" :[2] },
+  {"date_inf":"22/10/2023","num_immat":"AA643BB","num_permis": "AZ03","délits" :[3] },
+  {"date_inf":"23/10/2023","num_immat":"ZZ999DZ","num_permis": "AZ02","délits" :[4] },
+  {"date_inf":"24/10/2023","num_immat":"BF823NG","num_permis": "AZ01","délits" :[1] },
+  {"date_inf":"25/10/2023","num_immat":"ZZ999DZ","num_permis": "AZ06","délits" :[2] },
+  {"date_inf":"26/10/2023","num_immat":"BF823NG","num_permis": "AZ05","délits" :[3] },
+  {"date_inf":"27/10/2023","num_immat":"BE456AD","num_permis": "AZ04","délits" :[4] }
+]
+
